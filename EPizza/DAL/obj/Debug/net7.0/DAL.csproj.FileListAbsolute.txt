@@ -1,0 +1,15 @@
+D:\DotNet\Dotnet try\Day10\EPizza\DAL\bin\Debug\net7.0\DAL.deps.json
+D:\DotNet\Dotnet try\Day10\EPizza\DAL\bin\Debug\net7.0\DAL.dll
+D:\DotNet\Dotnet try\Day10\EPizza\DAL\bin\Debug\net7.0\DAL.pdb
+D:\DotNet\Dotnet try\Day10\EPizza\DAL\bin\Debug\net7.0\BOL.dll
+D:\DotNet\Dotnet try\Day10\EPizza\DAL\bin\Debug\net7.0\BOL.pdb
+D:\DotNet\Dotnet try\Day10\EPizza\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+D:\DotNet\Dotnet try\Day10\EPizza\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\Dotnet try\Day10\EPizza\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+D:\DotNet\Dotnet try\Day10\EPizza\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+D:\DotNet\Dotnet try\Day10\EPizza\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+D:\DotNet\Dotnet try\Day10\EPizza\DAL\obj\Debug\net7.0\DAL.csproj.CopyComplete
+D:\DotNet\Dotnet try\Day10\EPizza\DAL\obj\Debug\net7.0\DAL.dll
+D:\DotNet\Dotnet try\Day10\EPizza\DAL\obj\Debug\net7.0\refint\DAL.dll
+D:\DotNet\Dotnet try\Day10\EPizza\DAL\obj\Debug\net7.0\DAL.pdb
+D:\DotNet\Dotnet try\Day10\EPizza\DAL\obj\Debug\net7.0\ref\DAL.dll

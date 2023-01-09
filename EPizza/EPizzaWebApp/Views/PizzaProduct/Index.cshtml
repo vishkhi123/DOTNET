@@ -1,0 +1,28 @@
+@using BOL;
+@{
+    ViewData["Title"] = "Pizza Product";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome To Pizza Hub</h1>
+    <p>Order your favorite pizza from Pizza Hub</p>
+
+    @{
+        List<PizzaProduct> allProducts=(List<PizzaProduct>)ViewData["product"];
+
+            <ol>
+                @foreach (var item in allProducts)
+                {
+                    <li>
+                        <h3>@item.Id</h3>
+                        <p>@item.Title</p>
+                        <p>@item.Description</p>
+                        <p>@item.Price</p>
+                    </li>
+                }
+            </ol>
+        
+
+    }
+    
+</div>

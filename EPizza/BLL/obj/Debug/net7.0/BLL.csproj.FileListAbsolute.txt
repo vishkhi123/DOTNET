@@ -1,0 +1,17 @@
+D:\DotNet\Dotnet try\Day10\EPizza\BLL\bin\Debug\net7.0\BLL.deps.json
+D:\DotNet\Dotnet try\Day10\EPizza\BLL\bin\Debug\net7.0\BLL.dll
+D:\DotNet\Dotnet try\Day10\EPizza\BLL\bin\Debug\net7.0\BLL.pdb
+D:\DotNet\Dotnet try\Day10\EPizza\BLL\bin\Debug\net7.0\BOL.dll
+D:\DotNet\Dotnet try\Day10\EPizza\BLL\bin\Debug\net7.0\DAL.dll
+D:\DotNet\Dotnet try\Day10\EPizza\BLL\bin\Debug\net7.0\BOL.pdb
+D:\DotNet\Dotnet try\Day10\EPizza\BLL\bin\Debug\net7.0\DAL.pdb
+D:\DotNet\Dotnet try\Day10\EPizza\BLL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+D:\DotNet\Dotnet try\Day10\EPizza\BLL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\Dotnet try\Day10\EPizza\BLL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+D:\DotNet\Dotnet try\Day10\EPizza\BLL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+D:\DotNet\Dotnet try\Day10\EPizza\BLL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+D:\DotNet\Dotnet try\Day10\EPizza\BLL\obj\Debug\net7.0\BLL.csproj.CopyComplete
+D:\DotNet\Dotnet try\Day10\EPizza\BLL\obj\Debug\net7.0\BLL.dll
+D:\DotNet\Dotnet try\Day10\EPizza\BLL\obj\Debug\net7.0\refint\BLL.dll
+D:\DotNet\Dotnet try\Day10\EPizza\BLL\obj\Debug\net7.0\BLL.pdb
+D:\DotNet\Dotnet try\Day10\EPizza\BLL\obj\Debug\net7.0\ref\BLL.dll
