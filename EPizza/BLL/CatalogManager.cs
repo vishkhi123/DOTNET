@@ -11,4 +11,12 @@ public class CatalogManager
     allProducts=DBManager.GetAllProducts();
     return allProducts;
    }
+
+   public PizzaProduct GetProduct(int id)
+   {
+      List<PizzaProduct> allProducts=GetAllProducts();
+
+      PizzaProduct foundpizza=allProducts.Find((product)=>product.Id==id);
+      return foundpizza;
+   }
 }

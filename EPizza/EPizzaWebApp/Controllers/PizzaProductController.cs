@@ -25,5 +25,12 @@ public class PizzaProductController : Controller
       return View();
         
     }
+    public IActionResult Details(int id)
+    {
+        CatalogManager manager=new CatalogManager();
+        PizzaProduct product=manager.GetProduct(id);
+        this.ViewData["product"]=product;
+        return View();
+    }
 
 }
