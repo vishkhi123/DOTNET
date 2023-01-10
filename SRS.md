@@ -28,7 +28,7 @@ employees who process orders can view the orders from the customer changes statu
 The owner, or super user, has the ultimate control of the system, he can add products, as well as add, change, or delete employee accounts.
 
 ## Functional Requirements
-# Customers 
+### Customers 
 - The user must be able to create a new order. 
 -  The user must be able to customize a pizza by: 
 - The user must be able to view a list of available ingredients. 
@@ -51,7 +51,7 @@ The owner, or super user, has the ultimate control of the system, he can add pro
 - The user must be able to add the name and address of the customer. 
 - The user must be able to clear the current order to start a new one. 
 - The user must be able to confirm the order. 
-# Employees 
+### Employees 
 - The employee must be able to log in and out. 
 - The employee must be able to view a list of available orders and their custom pizzas. 
 - The employee must be able to mark orders as “prepared”. 
@@ -59,7 +59,7 @@ The owner, or super user, has the ultimate control of the system, he can add pro
 - The employee must be able to mark order as “failure to deliver” 
 - Only users with respective rights (employee) must be able to use all these “Employees” features. 
 
-# Administrators 
+### Administrators 
 - The administrator must be able to log in and out. 
 - The administrator must be able to add/delete/edit orders. 
 - The administrator must be able to add/delete/edit ingredients. 
