@@ -1,0 +1,102 @@
+D:\DotNet\New folder\EXAM\StudentWEBAPI\bin\Debug\net7.0\appsettings.Development.json
+D:\DotNet\New folder\EXAM\StudentWEBAPI\bin\Debug\net7.0\appsettings.json
+D:\DotNet\New folder\EXAM\StudentWEBAPI\bin\Debug\net7.0\StudentWEBAPI.exe
+D:\DotNet\New folder\EXAM\StudentWEBAPI\bin\Debug\net7.0\StudentWEBAPI.deps.json
+D:\DotNet\New folder\EXAM\StudentWEBAPI\bin\Debug\net7.0\StudentWEBAPI.runtimeconfig.json
+D:\DotNet\New folder\EXAM\StudentWEBAPI\bin\Debug\net7.0\StudentWEBAPI.dll
+D:\DotNet\New folder\EXAM\StudentWEBAPI\bin\Debug\net7.0\StudentWEBAPI.pdb
+D:\DotNet\New folder\EXAM\StudentWEBAPI\bin\Debug\net7.0\Google.Protobuf.dll
+D:\DotNet\New folder\EXAM\StudentWEBAPI\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+D:\DotNet\New folder\EXAM\StudentWEBAPI\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+D:\DotNet\New folder\EXAM\StudentWEBAPI\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+D:\DotNet\New folder\EXAM\StudentWEBAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\DotNet\New folder\EXAM\StudentWEBAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\DotNet\New folder\EXAM\StudentWEBAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\DotNet\New folder\EXAM\StudentWEBAPI\bin\Debug\net7.0\MySql.Data.dll
+D:\DotNet\New folder\EXAM\StudentWEBAPI\bin\Debug\net7.0\ZstdNet.dll
+D:\DotNet\New folder\EXAM\StudentWEBAPI\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+D:\DotNet\New folder\EXAM\StudentWEBAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\DotNet\New folder\EXAM\StudentWEBAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\DotNet\New folder\EXAM\StudentWEBAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\DotNet\New folder\EXAM\StudentWEBAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\DotNet\New folder\EXAM\StudentWEBAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\DotNet\New folder\EXAM\StudentWEBAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\DotNet\New folder\EXAM\StudentWEBAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\DotNet\New folder\EXAM\StudentWEBAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\DotNet\New folder\EXAM\StudentWEBAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\DotNet\New folder\EXAM\StudentWEBAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\DotNet\New folder\EXAM\StudentWEBAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\DotNet\New folder\EXAM\StudentWEBAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\DotNet\New folder\EXAM\StudentWEBAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\DotNet\New folder\EXAM\StudentWEBAPI\obj\Debug\net7.0\StudentWEBAPI.csproj.AssemblyReference.cache
+D:\DotNet\New folder\EXAM\StudentWEBAPI\obj\Debug\net7.0\StudentWEBAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\New folder\EXAM\StudentWEBAPI\obj\Debug\net7.0\StudentWEBAPI.AssemblyInfoInputs.cache
+D:\DotNet\New folder\EXAM\StudentWEBAPI\obj\Debug\net7.0\StudentWEBAPI.AssemblyInfo.cs
+D:\DotNet\New folder\EXAM\StudentWEBAPI\obj\Debug\net7.0\StudentWEBAPI.csproj.CoreCompileInputs.cache
+D:\DotNet\New folder\EXAM\StudentWEBAPI\obj\Debug\net7.0\StudentWEBAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\DotNet\New folder\EXAM\StudentWEBAPI\obj\Debug\net7.0\StudentWEBAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\DotNet\New folder\EXAM\StudentWEBAPI\obj\Debug\net7.0\staticwebassets\msbuild.StudentWEBAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DotNet\New folder\EXAM\StudentWEBAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.StudentWEBAPI.props
+D:\DotNet\New folder\EXAM\StudentWEBAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.StudentWEBAPI.props
+D:\DotNet\New folder\EXAM\StudentWEBAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.StudentWEBAPI.props
+D:\DotNet\New folder\EXAM\StudentWEBAPI\obj\Debug\net7.0\staticwebassets.pack.json
+D:\DotNet\New folder\EXAM\StudentWEBAPI\obj\Debug\net7.0\staticwebassets.build.json
+D:\DotNet\New folder\EXAM\StudentWEBAPI\obj\Debug\net7.0\staticwebassets.development.json
+D:\DotNet\New folder\EXAM\StudentWEBAPI\obj\Debug\net7.0\scopedcss\bundle\StudentWEBAPI.styles.css
+D:\DotNet\New folder\EXAM\StudentWEBAPI\obj\Debug\net7.0\StudentWEBAPI.csproj.CopyComplete
+D:\DotNet\New folder\EXAM\StudentWEBAPI\obj\Debug\net7.0\StudentWEBAPI.dll
+D:\DotNet\New folder\EXAM\StudentWEBAPI\obj\Debug\net7.0\refint\StudentWEBAPI.dll
+D:\DotNet\New folder\EXAM\StudentWEBAPI\obj\Debug\net7.0\StudentWEBAPI.pdb
+D:\DotNet\New folder\EXAM\StudentWEBAPI\obj\Debug\net7.0\StudentWEBAPI.genruntimeconfig.cache
+D:\DotNet\New folder\EXAM\StudentWEBAPI\obj\Debug\net7.0\ref\StudentWEBAPI.dll
+D:\DotNet\EXAM\StudentWEBAPI\bin\Debug\net7.0\appsettings.Development.json
+D:\DotNet\EXAM\StudentWEBAPI\bin\Debug\net7.0\appsettings.json
+D:\DotNet\EXAM\StudentWEBAPI\bin\Debug\net7.0\StudentWEBAPI.exe
+D:\DotNet\EXAM\StudentWEBAPI\bin\Debug\net7.0\StudentWEBAPI.deps.json
+D:\DotNet\EXAM\StudentWEBAPI\bin\Debug\net7.0\StudentWEBAPI.runtimeconfig.json
+D:\DotNet\EXAM\StudentWEBAPI\bin\Debug\net7.0\StudentWEBAPI.dll
+D:\DotNet\EXAM\StudentWEBAPI\bin\Debug\net7.0\StudentWEBAPI.pdb
+D:\DotNet\EXAM\StudentWEBAPI\bin\Debug\net7.0\Google.Protobuf.dll
+D:\DotNet\EXAM\StudentWEBAPI\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+D:\DotNet\EXAM\StudentWEBAPI\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+D:\DotNet\EXAM\StudentWEBAPI\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+D:\DotNet\EXAM\StudentWEBAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\DotNet\EXAM\StudentWEBAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\DotNet\EXAM\StudentWEBAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\DotNet\EXAM\StudentWEBAPI\bin\Debug\net7.0\MySql.Data.dll
+D:\DotNet\EXAM\StudentWEBAPI\bin\Debug\net7.0\ZstdNet.dll
+D:\DotNet\EXAM\StudentWEBAPI\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+D:\DotNet\EXAM\StudentWEBAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\DotNet\EXAM\StudentWEBAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\DotNet\EXAM\StudentWEBAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\DotNet\EXAM\StudentWEBAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\DotNet\EXAM\StudentWEBAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\DotNet\EXAM\StudentWEBAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\DotNet\EXAM\StudentWEBAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\DotNet\EXAM\StudentWEBAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\DotNet\EXAM\StudentWEBAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\DotNet\EXAM\StudentWEBAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\DotNet\EXAM\StudentWEBAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\DotNet\EXAM\StudentWEBAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\DotNet\EXAM\StudentWEBAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\DotNet\EXAM\StudentWEBAPI\obj\Debug\net7.0\StudentWEBAPI.csproj.AssemblyReference.cache
+D:\DotNet\EXAM\StudentWEBAPI\obj\Debug\net7.0\StudentWEBAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\EXAM\StudentWEBAPI\obj\Debug\net7.0\StudentWEBAPI.AssemblyInfoInputs.cache
+D:\DotNet\EXAM\StudentWEBAPI\obj\Debug\net7.0\StudentWEBAPI.AssemblyInfo.cs
+D:\DotNet\EXAM\StudentWEBAPI\obj\Debug\net7.0\StudentWEBAPI.csproj.CoreCompileInputs.cache
+D:\DotNet\EXAM\StudentWEBAPI\obj\Debug\net7.0\StudentWEBAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\DotNet\EXAM\StudentWEBAPI\obj\Debug\net7.0\StudentWEBAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\DotNet\EXAM\StudentWEBAPI\obj\Debug\net7.0\staticwebassets\msbuild.StudentWEBAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DotNet\EXAM\StudentWEBAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.StudentWEBAPI.props
+D:\DotNet\EXAM\StudentWEBAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.StudentWEBAPI.props
+D:\DotNet\EXAM\StudentWEBAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.StudentWEBAPI.props
+D:\DotNet\EXAM\StudentWEBAPI\obj\Debug\net7.0\staticwebassets.pack.json
+D:\DotNet\EXAM\StudentWEBAPI\obj\Debug\net7.0\staticwebassets.build.json
+D:\DotNet\EXAM\StudentWEBAPI\obj\Debug\net7.0\staticwebassets.development.json
+D:\DotNet\EXAM\StudentWEBAPI\obj\Debug\net7.0\scopedcss\bundle\StudentWEBAPI.styles.css
+D:\DotNet\EXAM\StudentWEBAPI\obj\Debug\net7.0\StudentWEBAPI.csproj.CopyComplete
+D:\DotNet\EXAM\StudentWEBAPI\obj\Debug\net7.0\StudentWEBAPI.dll
+D:\DotNet\EXAM\StudentWEBAPI\obj\Debug\net7.0\refint\StudentWEBAPI.dll
+D:\DotNet\EXAM\StudentWEBAPI\obj\Debug\net7.0\StudentWEBAPI.pdb
+D:\DotNet\EXAM\StudentWEBAPI\obj\Debug\net7.0\StudentWEBAPI.genruntimeconfig.cache
+D:\DotNet\EXAM\StudentWEBAPI\obj\Debug\net7.0\ref\StudentWEBAPI.dll
