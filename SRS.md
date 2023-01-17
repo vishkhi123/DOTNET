@@ -30,40 +30,78 @@ The owner, or super user, has the ultimate control of the system, he can add pro
 ## Functional Requirements
 ### Customers 
 - The user must be able to create a new order. 
--  The user must be able to customize a pizza by: 
-- The user must be able to view a list of available ingredients. 
-- The user must be able to add an ingredient to a custom pizza 
-- The user must be able to remove an ingredient from a custom pizza 
-- 
-- The user must be able to get graphical feedback from selecting ingredients. A photo of a 
-  pizza will contain the newly selected ingredient combined with previous selected ingredients. 
-- The user must be able to add a custom pizza to an order. 
+- The user must be able to add a pizza to an order. 
 - The user must be able to view a list of available non-pizza products. 
 - The user must be able to add non-pizza products to an order. 
-- The user must be able to see a list of custom pizzas and non-pizza products that are added to 
+- The user must be able to see a list of pizzas and non-pizza products that are added to 
    the order. 
-- The user must be able to change the amount of a custom pizza. 
-- The user must be able to change the amount of a non-pizza product. 
-- The user must be able to delete a custom pizza from an order. 
+- the user must be able to see a list in sorted manner with respect to price.
+- The user must be able to change the quantity of a pizza. 
+- The user must be able to change the quantity of a non-pizza product. 
+- The user must be able to delete a pizza from an order. 
 - The user must be able to delete a non-pizza product from an order. 
 - The user must be able to see the total price of an order. 
-- The user must be able to choose a delivery date and time that is up to two weeks ahead. 
 - The user must be able to add the name and address of the customer. 
 - The user must be able to clear the current order to start a new one. 
 - The user must be able to confirm the order. 
 ### Employees 
 - The employee must be able to log in and out. 
-- The employee must be able to view a list of available orders and their custom pizzas. 
+- The employee must be able to view a list of available orders and their pizzas. 
 - The employee must be able to mark orders as “prepared”. 
 - The employee must be able to mark order as “delivered” 
 - The employee must be able to mark order as “failure to deliver” 
 - Only users with respective rights (employee) must be able to use all these “Employees” features. 
 
-### Administrators 
-- The administrator must be able to log in and out. 
-- The administrator must be able to add/delete/edit orders. 
-- The administrator must be able to add/delete/edit ingredients. 
-- The administrator must be able to add/delete/edit non-pizza products. 
-- The administrator must be able to add/delete/edit other users. 
-- The administrator must be able to view an order log. 
-- Only users with respective rights (administrators) must be able to use all these “Administrators” features.
+### Manager 
+- The Manager must be able to log in and out. 
+- The Manager must be able to add/delete/edit orders. 
+- The Manager must be able to add/delete/edit ingredients. 
+- The Manager must be able to add/delete/edit non-pizza products. 
+- The Manager must be able to add/delete/edit other users. 
+- The Manager must be able to view an order log. 
+- Only users with respective rights (Manager) must be able to use all these “Manager” features.
+
+
+## Non-Functional Requirement
+
+As an operational requirement, the system will run as a database with a website as user 
+interface. As performance requirement the system must be accessible 24 hours a day, seven 
+days a week. Due to the nature of the system as an ordering website, the system must have a 
+low response time, preferably shorter than second, with a maximum of five seconds. The 
+exception is viewing order logs which could have a higher response time (of seconds) as the log 
+increases in size over time. Due to the low complexity of the system, no problems with response 
+time are expected. Customers who visit the website to order will get a sessionID for their visit, 
+which is used to identify them while using the system. For every action they take, a timestamp 
+is stored. From time to time a service on the server will scan sessionID’s and timestamps. 
+SessionID’s which have not been active for more than three hours will be deleted along with the 
+corresponding ordering information. 
+
+### Interface Requirements 
+#### GUI 
+The user interface must be highly interactive so that all users may be able to operate the system 
+as easily and fluently. GUI would be used for creating home page with navigation bar and other 
+pages for respective categories. 
+#### Software Interface 
+The software interfaces required for this system are: 
+ Internet connection 
+ The PHP and MYSQL must be installed 
+ Any browser 
+### Performance Requirements 
+The respond time must be less than 20 seconds. The full length pages should be displayed along 
+with the images. 
+### Design Constraints 
+The system must be compatible with all the browsers. 
+
+### Other Non-Functional Attributes 
+#### Security 
+The server-side security is needed to protect the system from hackers. 
+#### Reliability 
+The system should be highly reliable and it should generate all the updated information in 
+correct order. 
+#### Availability 
+The system should be available 24*7. 
+#### Maintainability 
+The system should be maintainable in such a manner that if any new requirement occurs then it 
+should be easily incorporated in an individual module. 
+#### Reusability 
+The system would be usable as long as people want to use it.
